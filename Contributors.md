@@ -9,6 +9,7 @@
 - [Kyle Pu](https://github.com/Kyle-P)
 - [Aman Agrawal](http://github.com/AmAnAgr)
 - [Asim Ansari](https://github.com/Asim1996)
+- [Sridhar Bandavaram](https://github.com/sbandavaram)
 - [Momchil Zhivkov](https://github.com/mrZhivkov)
 - [Ibadullah Khan](https://github.com/ibadullah25)
 - [Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
@@ -1759,5 +1760,4 @@
 - arpitjjw
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
-- [Sridhar Bandavaram](https://github.com/sbandavaram)
 bar hoshen
